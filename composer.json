@@ -1,0 +1,10 @@
+{
+    "name": "fluidcommerce/b2b-meta-package",
+    "version": "1.0.0",
+    "description": "Metapackage with Fluid Commerce B2B",
+    "type": "metapackage",
+    "require": {
+        "fluidcommerce/company": "1.0.0",
+        "fluidcommerce/customer": "1.0.0"
+    }
+}
